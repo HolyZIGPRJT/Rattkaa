@@ -13,6 +13,6 @@ while otchet_ara >= 0:
     otchet_ara -= fps_ara
     time.sleep(fps_ara)
 print("Пизда тобi, ты попался на рат")
-For i in range(1,100):
-	time.sleep(0.04)
-	print("Файл спизжен")
+for i in range(1, 100):
+    time.sleep(0.04)
+    print("Файл спизжен")
